@@ -1,0 +1,2 @@
+org\sonatype\mavenbook\plugins\EchoMojo.class
+org\sonatype\mavenbook\plugins\first_maven_plugin\MyMojo.class
